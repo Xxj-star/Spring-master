@@ -49,7 +49,7 @@
 
 # 当前版本
 
-[![release](https://img.shields.io/badge/release-v1.0-orange.svg)](https://github.com/xuxinjiang/NetworkCue-/blob/master/update.md)
+[![release](https://img.shields.io/badge/release-v1.0-orange.svg)](https://github.com/xuxinjiang/Spring-master/blob/master/update.md)
 
 ## build.gradle设置
 ```
