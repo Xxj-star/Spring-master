@@ -59,7 +59,7 @@ implementation 'com.github.xuxinjiang:NetworkCue:1.0'
 ```
 # 演示（请star支持）
 
-![image text](https://github.com/xuxinjiang/NetworkCue-/blob/master/gif/zjl.gif)
+![image text](https://github.com/xuxinjiang/Spring-master/blob/master/gif/fff.gif)
 
 # 联系方式
 
