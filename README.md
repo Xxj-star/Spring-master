@@ -59,7 +59,7 @@ dependencies {
 ```
 # 演示（请star支持）
 
-![image text](https://github.com/xuxinjiang/Spring-master/blob/master/gif/fff.gif)
+![image text](https://github.com/xuxinjiang/Spring-master/blob/master/gif/tp1.gif)
 
 # 联系方式
 
@@ -67,7 +67,7 @@ dependencies {
 
 ### 欢迎加入QQ交流群（Q群574181465）
 
-![image text](https://github.com/xuxinjiang/NetworkCue-/blob/master/gif/qqqun.png)
+![image text](https://github.com/xuxinjiang/Spring-master/blob/master/gif/qun.jpg)
 
 
 
