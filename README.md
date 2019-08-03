@@ -67,7 +67,7 @@ dependencies {
 
 ### 欢迎加入QQ交流群（Q群574181465）
 
-![image text](https://github.com/xuxinjiang/Spring-master/blob/master/gif/qun.jpg)
+![image text](https://github.com/xuxinjiang/Spring-master/blob/master/gif/xxjqq.png)
 
 
 
