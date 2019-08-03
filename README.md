@@ -59,7 +59,7 @@ dependencies {
 ```
 # 演示（请star支持）
 
-![image text](https://github.com/xuxinjiang/Spring-master/blob/master/gif/fff.gif)
+![image text](https://github.com/xuxinjiang/Spring-master/blob/master/gif/qun.jpg)
 
 # 联系方式
 
